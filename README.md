@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/nicolaspeixoto/url-params.svg)](https://travis-ci.org/nicolaspeixoto/url-params)
