@@ -1,0 +1,21 @@
+{
+  "name": "url-params",
+  "version": "0.0.1",
+  "description": "Resolve url parameters",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "lint": "./node_modules/jshint/bin/jshint ./index.js",
+    "mocha-test": "./node_modules/mocha/bin/mocha ./test.js",
+    "test": "npm run-script lint && npm run-script mocha-test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "3.4.0",
+    "jshint": "2.8.0",
+    "mocha": "2.3.3"
+  }
+}
